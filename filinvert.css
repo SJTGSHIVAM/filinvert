@@ -1,0 +1,10 @@
+.fnv--filter__colorfix {
+  filter: invert(1) hue-rotate(180deg);
+}
+.fnv--filter__set {
+  filter: invert(1);
+}
+.fnv--filter__colorfix img,
+.fnv--filter__set img {
+  filter: invert(1) hue-rotate(180deg);
+}
